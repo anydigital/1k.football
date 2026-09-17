@@ -17,8 +17,9 @@
 
 {% block body %}
   <nav class="container">
-    <ul><li><a href="/"><i class='fa-brands fa-square-build-awesome-stroke fa-lg'></i> <b>Logo</b></a></li></ul>
+    <ul><li><a href="/">{{ site.title }}</a></li></ul>
     {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+    <ul><li><a href="https://github.com/anydigital/1k.football"><i class="fa-brands fa-github fa-lg"></i></a></li></ul>
   </nav>
   <main class="container breakout-all">
     {% if title %}<h1>{{ title }}</h1>{% endif %}
@@ -26,5 +27,5 @@
     {{ content | safe }}
   </main>
   <hr>
-  <footer>{{ site.footer | safe }} © {{ site.year }}</footer>
+  <footer>{{ site.footer | renderContent('njk,md', { site: site }) | safe }}</footer>
 {% endblock %}
