@@ -1,9 +1,0 @@
-[build]
-  base = ".starter/.11ty/"
-  publish = "_site/"
-  command = "npm run build2"
-
-  # The magic bit: 
-  # This command returns '1' (trigger build) if there are changes 
-  # in the root, excluding the build output folder itself.
-  ignore = "git diff --quiet HEAD^ HEAD ../"
