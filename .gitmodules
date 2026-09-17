@@ -1,4 +1,0 @@
-[submodule ".starter"]
-	path = .starter
-	url = git@github.com:tonystar/blades.ninja.git
-	branch = main
