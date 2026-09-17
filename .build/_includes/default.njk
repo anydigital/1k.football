@@ -22,8 +22,8 @@
     <ul><li><a href="https://github.com/anydigital/1k.football"><i class="fa-brands fa-github fa-lg"></i></a></li></ul>
   </nav>
   <main class="container breakout-all">
-    {% if title %}<h1>{{ title }}</h1>{% endif %}
-    {% if description %}<p><big>{{ description }}</big></p>{% endif %}
+    <h1>{{ title | safe }}</h1>
+    <p><big>{{ description | safe }}</big></p>
     {{ content | safe }}
   </main>
   <hr>
