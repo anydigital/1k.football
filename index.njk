@@ -13,27 +13,6 @@ description: |-
   <i class='faded' style='text-wrap: nowrap'>Updated: August 5, 2026</i>
 ---
 
-{#TODO: 1) Move data processing to JS file. #}
-
-{% set totals = {} %}
-{% set s_ranks = {} %}
-{% for s in range(0, player_stats[0].seasons | length) %}
-  {% set player_goals = {} %}
-  {% for p in range(0, player_stats | length) %}
-    {% set new_totals = {} %}
-    {% for m, val in player_stats[p].seasons[s].metrics %}
-      {% set new_totals = new_totals | attr_set(m, totals[p][s - 1][m] | d(0) + val) %}
-    {% endfor %}
-    {% if 'goals' in new_totals %}
-      {% set totals = totals | attr_set(p, totals[p] | attr_set(s, new_totals) ) %}
-      {% set player_goals = player_goals | attr_set(p, new_totals.goals) %}
-    {% endif %}
-  {% endfor %}
-  {% for p, goals in player_goals | dictsort | sort(attribute=1) %}
-    {% set s_ranks = s_ranks | attr_set(s, s_ranks[s] | attr_set(p, loop.index / player_goals | length ) ) %}
-  {% endfor %}
-{% endfor %}
-
 <figure id="chart" class="breakout-item-max" style="padding-right: 1rem">
   <table class="charts-css line multiple show-labels show-data-axes show-data-on-hover">
     {% for s in range(0, player_stats[0].seasons | length) %}
