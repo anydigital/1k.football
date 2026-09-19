@@ -90,7 +90,7 @@
         goals: 42
     - year: "'25/26"
       metrics:
-        goals: 38
+        goals: 41
         🌐: 3
     - year: "'26/27"
       metrics:
@@ -190,7 +190,7 @@
         goals: 46
     - year: "2026"
       metrics:
-        goals: 25
+        goals: 33
         🌐: 8
       notes: current season
     - year: "2027"
@@ -241,12 +241,12 @@
         👟: true
     - year: "'25/26"
       metrics:
-        goals: 49
+        goals: 60
+        🥾: true
         🌐: 10
     - year: "'26/27"
       metrics:
-        goals: 11
-        🥾: true
+        goals: 8
       notes: current season
     - year: "'27/28"
       metrics: {}
@@ -289,11 +289,11 @@
         goals: 45
     - year: "'25/26"
       metrics:
-        goals: 55
+        goals: 62
         🌐: 7
     - year: "'26/27"
       metrics:
-        goals: 7
+        goals: 6
       notes: current season
     - year: "'27/28"
       metrics: {}
@@ -331,12 +331,12 @@
         goals: 19
     - year: "'25/26"
       metrics:
-        goals: 27
+        goals: 28
         🏆: true
         🌐: 1
     - year: "'26/27"
       metrics:
-        goals: 1
+        goals: 8
       notes: current season
     - year: "'27/28"
       metrics: {}
