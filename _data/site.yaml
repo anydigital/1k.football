@@ -1,6 +1,6 @@
 footer: |-
   Fully [open-source](//github.com/anydigital/1k.football) tracker
-  powered by <object data='https://buildawesome.one/gh-content.svg' class='dark-auto'></object>
+  powered by <b class='dark-auto'><object data='https://buildawesome.one/gh.svg'></object> × <object data='https://blades.dev/gh.svg'></object></b>
 
   Content licensed [CC BY-SA 4.0](//github.com/anydigital/1k.football/blob/main/LICENSE.md)
   © {{ site.year }} [Anydigital](https://any.digital/)
