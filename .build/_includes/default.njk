@@ -19,7 +19,10 @@
   <nav class="container">
     <ul><li><a href="/">{{ site.title }}</a></li></ul>
     {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
-    <ul><li><a href="https://github.com/anydigital/1k.football"><i class="fa-brands fa-github fa-lg"></i></a></li></ul>
+    <ul>
+      <li><a href="https://github.com/anydigital/1k.football"><i class="fa-brands fa-github fa-lg"></i></a></li>
+      <li><a href="https://x.com/1k_football"><i class="fa-brands fa-x-twitter fa-lg"></i></a></li>
+    </ul>
   </nav>
   <main class="container breakout-all">
     <h1>{{ title | safe }}</h1>
