@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "prettier-plugin-jinja-template": "^2.1.0",
-    "serve": "^14.2.5"
+    "serve": "^14.2.6"
   },
   "--- SITE GLOBALS": "compatible with https://www.11ty.dev/docs/plugins/rss/#virtual-template",
   "site": {
@@ -25,13 +25,12 @@
       "name": "Anton Staroverov"
     },
     "base": "https://1k.football",
-    "favicon": "https://blades.ninja/favicon.ico",
-    "generator": "Build Awesome One Starter (https://starter.buildawesome.one/)",
+    "favicon": "https://blades.dev/favicon.ico",
+    "generator": "One¹ Starter (https://starter.buildawesome.one/)",
     "language": "en",
     "subtitle": "",
     "styles": [
-      "https://cdn.jsdelivr.net/npm/@anyblades/blades@^3.0.0-0/css/blades.css?min=0",
-      "https://cdn.jsdelivr.net/npm/@anyblades/blades@^3.0.0-0/css/ninja.css?min=0",
+      "https://cdn.jsdelivr.net/npm/@anyblades/blades@^3.1.0-0/css/blades.ninja.css?min=0",
       "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css"
     ],
     "title": "⚽️ 1k Goals Tracker"
