@@ -39,6 +39,18 @@ description: |-
     {% endfor %}
   </ul>
 </figure>
+<hr>
+<big>
+  {% renderTemplate 'md' %}
+  - **Ronaldo is 19 goals away from 1000.** {data-marker=🇵🇹}
+  - **Messi is on track to outrace Ronaldo,**  
+    with at least 936 goals vs Ronaldo's 935 after 23 seasons. {data-marker=🇦🇷}
+  - **Mbappé and Haaland are trailing Messi,**  
+    but both better than Ronaldo at the same age. {data-marker=🇫🇷}
+  - **Yamal is still in the race,**  
+    with at least 70 goals, same as Ronaldo after 5 seasons. {data-marker=🇪🇸}
+  {% endrenderTemplate %}
+</big>
 <style>
   .charts-css {
     --color-1: forestgreen;
