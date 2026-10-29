@@ -28,12 +28,13 @@
     "favicon": "https://blades.dev/favicon.ico",
     "generator": "One¹ Starter (https://starter.buildawesome.one/)",
     "language": "en",
+    "logo": "<i>⚽️</i> <span>1k Goals <sup style>Tracker</sup></span>",
     "subtitle": "",
     "styles": [
       "https://cdn.jsdelivr.net/npm/@anyblades/blades@^3.1.0-0/css/blades.ninja.css?min=0",
       "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css"
     ],
-    "title": "⚽️ 1k Goals Tracker"
+    "title": "1k Goals Tracker"
   },
   "---": "---"
 }

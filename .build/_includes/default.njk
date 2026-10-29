@@ -11,13 +11,24 @@
   <style>
     object { vertical-align: middle } /*TODO: move to blades.css */
     body > footer { text-align: center; padding-bottom: 3rem; font-size: medium }
+    a.logo {
+      font-weight: 500;
+      text-decoration: none;
+      color: inherit;
+      > i {
+        font-size: 135%;
+      }
+      sup {
+        top: 0;
+      }
+    }
   </style>
   {{ content_for_header | safe }}
 {% endset %}
 
 {% block body %}
   <nav class="container">
-    <ul><li><a href="/">{{ site.title }}</a></li></ul>
+    <ul><li><a href="/" class="logo">{{ site.logo | safe }}</a></li></ul>
     {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
     <ul>
       <li><a href="https://github.com/anydigital/1k.football"><i class="fa-brands fa-github fa-lg"></i></a></li>

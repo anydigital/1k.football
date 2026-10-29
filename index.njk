@@ -130,7 +130,7 @@ description: |-
       <td>
         <sup>{{ season.year }}</sup> {{ season.metrics.goals }} {% if 'goals' in totals[p][s] | d({}) %}<sup>∑={{ totals[p][s].goals }}</sup>{% endif %}
         {% set awards = season.metrics | attr_set('goals', false) | attr_set('🌐', false) %}
-        <br><b>{{ awards | dictsort | selectattr('1') | join('', '0') }}</b>{{ '🌐' ~ season.metrics['🌐'] if season.metrics['🌐'] }}
+        <br><small><b>{{ awards | dictsort | selectattr('1') | join('', '0') }}</b>{{ '🌐' ~ season.metrics['🌐'] if season.metrics['🌐'] }}</small>
         {% if season.notes %}<sub style>({{ season.notes }})</sub>{% endif %}
       </td>
       {% endif %}
