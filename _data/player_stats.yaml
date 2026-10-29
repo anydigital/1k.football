@@ -94,7 +94,7 @@
         🌐: 3
     - year: "'26/27"
       metrics:
-        goals: 3
+        goals: 5
       notes: current season
 - name: Lionel
   surname: Messi
@@ -190,7 +190,7 @@
         goals: 46
     - year: "2026"
       metrics:
-        goals: 33
+        goals: 40
         🌐: 8
       notes: current season
     - year: "2027"
@@ -246,7 +246,7 @@
         🌐: 10
     - year: "'26/27"
       metrics:
-        goals: 8
+        goals: 15
       notes: current season
     - year: "'27/28"
       metrics: {}
@@ -293,7 +293,7 @@
         🌐: 7
     - year: "'26/27"
       metrics:
-        goals: 6
+        goals: 16
       notes: current season
     - year: "'27/28"
       metrics: {}
@@ -336,7 +336,7 @@
         🌐: 1
     - year: "'26/27"
       metrics:
-        goals: 8
+        goals: 14
       notes: current season
     - year: "'27/28"
       metrics: {}
