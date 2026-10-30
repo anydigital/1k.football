@@ -14,12 +14,12 @@
 | birth_place = [[Paris]], France
 | height = 1.78 m<ref>{{cite web |url=https://www.realmadrid.com/en-US/football/first-team/players/kylian-mbappe |title=Mbappé |publisher=Real Madrid CF |language=EN |access-date=10 September 2025 |archive-date=19 August 2024 |archive-url=https://web.archive.org/web/20240819144021/https://www.realmadrid.com/en-US/football/first-team/players/kylian-mbappe |url-status=live }}</ref>
 | position = [[Forward (association football)|Forward]]
-| currentclub = [[Real Madrid CF|Real Madrid]]
-| clubnumber = 10
-| youthyears1 = 2004–2013
-| youthclubs1 = [[AS Bondy|Bondy]]
-| youthyears2 = 2013–2015
-| youthclubs2 = [[AS Monaco Reserves and Academy|Monaco]]
+| current_club = [[Real Madrid CF|Real Madrid]]
+| club_number = 10
+| youth_years1 = 2004–2013
+| youth_clubs1 = [[AS Bondy|Bondy]]
+| youth_years2 = 2013–2015
+| youth_clubs2 = [[AS Monaco Reserves and Academy|Monaco]]
 | years1 = 2015–2016
 | clubs1 = [[AS Monaco FC II|Monaco II]]
 | caps1 = 12
@@ -40,19 +40,19 @@
 | clubs5 = [[Real Madrid CF|Real Madrid]]
 | caps5 = 75<!--La Liga matches only-->
 | goals5 = 67<!--La Liga matches only-->
-| nationalyears1 = 2014
-| nationalteam1 = [[France national under-17 football team|France U17]]
-| nationalcaps1 = 2
-| nationalgoals1 = 0
-| nationalyears2 = 2016
-| nationalteam2 = [[France national under-19 football team|France U19]]
-| nationalcaps2 = 11
-| nationalgoals2 = 7
-| nationalyears3 = 2017–
-| nationalteam3 = [[France national football team|France]]
-| nationalcaps3 = 107
-| nationalgoals3 = [[List of international goals scored by Kylian Mbappé|67]]
-| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+| national_years1 = 2014
+| national_team1 = [[France national under-17 football team|France U17]]
+| national_caps1 = 2
+| national_goals1 = 0
+| national_years2 = 2016
+| national_team2 = [[France national under-19 football team|France U19]]
+| national_caps2 = 11
+| national_goals2 = 7
+| national_years3 = 2017–
+| national_team3 = [[France national football team|France]]
+| national_caps3 = 107
+| national_goals3 = [[List of international goals scored by Kylian Mbappé|67]]
+| medal_templates = {{Medal|Sport|Men's [[Association football|football]]}}
 {{Medal|Country|{{fb|FRA}}}}
 {{Medal|Comp|[[FIFA World Cup]]}}
 {{Medal|W|[[2018 FIFA World Cup|2018 Russia]]|}}
@@ -62,8 +62,8 @@
 {{Medal|Third|[[2025 UEFA Nations League Finals|2025 Germany]]|}}
 {{Medal|Comp|[[UEFA European Under-19 Championship]]}}
 {{Medal|W|[[2016 UEFA European Under-19 Championship|2016 Germany]]|}}
-| club-update = 22:02, 25 October 2026 (UTC)
-| nationalteam-update = 22:50, 25 September 2026 (UTC)
+| club_update = 22:02, 25 October 2026 (UTC)
+| national_team_update = 22:50, 25 September 2026 (UTC)
 | module = {{Infobox person|embed=yes
 | signature = Kylian Mbappé sig.svg
  }}
@@ -138,7 +138,7 @@ On 25 January 2025, Mbappé scored his first hat-trick for Madrid in a 3–0 vic
 ==== 2025–2026: La Liga and Champions League top scorer ====
 For the [[2025–26 Real Madrid CF season|2025–26 season]], Mbappé switched to the number 10 shirt, which became available after the departure of midfielder [[Luka Modrić]].<ref>{{Cite web|url=https://www.espn.co.uk/football/story/_/id/46071662/xabi-alonso-getting-kylian-mbappe-no-10-real-madrid-need-be|title=Getting Real Madrid's No. 10 jersey is taking Mbappé to the next level|last=Hunter|first=Graham|date=26 August 2025|website=ESPN.com|access-date=16 September 2025|archive-date=31 August 2025|archive-url=https://web.archive.org/web/20250831234205/https://www.espn.co.uk/football/story/_/id/46071662/xabi-alonso-getting-kylian-mbappe-no-10-real-madrid-need-be|url-status=live}}</ref> On 16 September, he scored his 49th and 50th goals for Madrid against Marseille in a 2–1 Champions League win, becoming the fastest player to achieve this feat for Madrid since [[Cristiano Ronaldo]].<ref>{{Cite web|last=Azzoni|first=Tales|title=Kylian Mbappé reaches 50-goal mark with Real Madrid|url=https://apnews.com/article/kylian-mbappe-50-goals-real-madrid-4013ca87894f723ec7cafda9dcfee1d3|publisher=Associated Press|date=16 September 2025|access-date=17 September 2025|archive-date=17 September 2025|archive-url=https://web.archive.org/web/20250917012302/https://apnews.com/article/kylian-mbappe-50-goals-real-madrid-4013ca87894f723ec7cafda9dcfee1d3|url-status=live}}</ref><ref>{{Cite web|last=Gonzalez|first=Dante|title=Kylian Mbappe scores 50th goal for Real Madrid in 64 games: How long did it take Cristiano Ronaldo?|url=https://worldsoccertalk.com/news/kylian-mbappe-scores-50th-goal-for-real-madrid-in-64-games-how-long-did-it-take-cristiano-ronaldo/|publisher=World Soccer Talk|date=16 September 2025|access-date=17 September 2025|archive-date=23 September 2025|archive-url=https://web.archive.org/web/20250923070136/https://worldsoccertalk.com/news/kylian-mbappe-scores-50th-goal-for-real-madrid-in-64-games-how-long-did-it-take-cristiano-ronaldo/|url-status=live}}</ref> Late in November, Mbappé scored four goals in a 4–3 win over [[Olympiacos F.C.|Olympiacos]], including the second-fastest hat-trick in Champions League history, completed in six minutes and 42 seconds.<ref>{{cite web |url=https://www.espn.com/soccer/story/_/id/47110951/kylian-mbappe-scores-2nd-fastest-champions-league-hat-trick |title=Kylian Mbappé scores 2nd-fastest Champions League hat trick |publisher=ESPN |date=26 November 2025 |access-date=27 November 2025 |archive-date=26 November 2025 |archive-url=https://web.archive.org/web/20251126213313/https://www.espn.com/soccer/story/_/id/47110951/kylian-mbappe-scores-2nd-fastest-champions-league-hat-trick |url-status=live }}</ref> On 20 December, he scored in a 2–0 victory over [[Sevilla FC|Sevilla]], equalling Cristiano Ronaldo's record of 59 goals in a calendar year for Madrid.<ref>{{cite web |url=https://www.theguardian.com/football/2025/dec/20/european-football-bayer-leverkusen-rb-leipzig-real-madrid-roma-juventus |title=European football: Mbappé matches Ronaldo's record as Real close on Barça |work=The Guardian |date=20 December 2025}}</ref> He concluded the season by securing his second Pichichi Trophy with 25 [[2025–26 La Liga|La Liga]] goals,<ref>{{cite web |last=Arya |first=Yosua |url=https://www.goal.com/en/lists/kylian-mbappe-real-madrid-pichichi-cristiano-ronaldo-lionel-messi-record/blt7f14077965a3db09 |title=Real Madrid 'Galactico' Kylian Mbappe achieves feat only matched by Cristiano Ronaldo & Lionel Messi in the last 38 years |publisher=Goal.com |date=24 May 2026 |access-date=25 May 2026 |archive-date=25 May 2026 |archive-url=https://web.archive.org/web/20260525000503/https://www.goal.com/en/lists/kylian-mbappe-real-madrid-pichichi-cristiano-ronaldo-lionel-messi-record/blt7f14077965a3db09 |url-status=live }}</ref> while also finishing as the top scorer in the [[2025–26 UEFA Champions League|UEFA Champions League]] with 15 goals.<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/news/029d-1ec1670159ea-2d1882e6a430-1000--champions-league-top-scorers-kylian-mbappe-leads/ |title=Champions League top scorers: Kylian Mbappé leads |publisher=UEFA |date=6 May 2026 |access-date=25 May 2026 |archive-date=25 May 2026 |archive-url=https://web.archive.org/web/20260525000503/https://www.uefa.com/uefachampionsleague/news/029d-1ec1670159ea-2d1882e6a430-1000--champions-league-top-scorers-kylian-mbappe-leads/ |url-status=live }}</ref>
 
-==== 2026–2027: 100 goals for the club ====
+==== 2026–2027: 100 club goals ====
 On 27 August 2026, Mbappé scored his sixth hat-trick for Real Madrid during a 4–1 victory over [[Real Sociedad]].<ref>{{cite web|last=Rose|first=Gary|title=Mourinho says hat-trick hero Mbappé 'hungry' for Real Madrid history|url=https://www.bbc.com/sport/football/live/ck24mej548lvt|publisher=BBC|work=BBC Sport|date=26 August 2026|access-date=27 August 2026|archive-date=27 August 2026|archive-url=https://web.archive.org/web/20260827073823/https://www.bbc.com/sport/football/live/ck24mej548lvt|url-status=live}}</ref> On 8 September, he scored against [[Inter Milan]] in a 2–1 win, equalling former Madrid striker [[Raúl González|Raúl]] as the fifth top scorer in Champions League history, with 71 career goals.<ref>{{cite news|title=Mbappé, fifth-highest scorer in Champions League history|url=https://www.realmadrid.com/en-US/news/football/first-team/latest-news/mbappe-iguala-a-raul-como-quinto-maximo-goleador-de-la-historia-de-la-champions-08-09-2026|publisher=Real Madrid CF|date=8 September 2026|access-date=12 September 2026|archive-date=12 September 2026|archive-url=https://web.archive.org/web/20260912214912/https://www.realmadrid.com/en-US/news/football/first-team/latest-news/mbappe-iguala-a-raul-como-quinto-maximo-goleador-de-la-historia-de-la-champions-08-09-2026|url-status=live}}</ref> Leading up to a match between Madrid and [[Elche CF|Elche]] on 15 September, the two clubs agreed that their players would wear shirts bearing a message of support for the inhabitants of [[Ceuta]], a North African autonomous city controlled by Spain. In July 2026, more than 70,000 migrants [[2026 Ceuta migrant crisis|illegally entered]] the city from neighboring Morocco, leading to a humanitarian crisis.<ref>{{Cite web |last=Conway |first=Elizabeth |date=2026-09-16 |title=Vini Jnr, Mbappe and Konate obscure Ceuta message ahead of Real Madrid match |url=https://www.bbc.com/sport/football/articles/cxm2qyr5r009o |access-date=2026-09-28 |website=BBC Sport |language=en-GB |archive-url=https://web.archive.org/web/20260918055549/https://www.bbc.com/sport/football/articles/cxm2qyr5r009o |archive-date=18 September 2026 |url-status=live}}</ref> Mbappé and his teammates [[Vinícius Júnior]] and [[Ibrahima Konaté]] wore the shirts partially rolled up, obscuring part of the message, and removed them before the pre-match handshake. After facing criticism in the Spanish press and on social media, Mbappé explained that he wore the shirt rolled up because he wanted to express solidarity not only with Ceuta but also with migrants who had died or were living in difficult conditions.{{efn-ua|Attributed to multiple references:<ref>{{cite news |url=https://www.marca.com/futbol/real-madrid/2026/09/15/vini-mbappe-konate-lucieron-camiseta-apoyo-ceuta.html |title=Vini, Mbappé y Konaté no lucieron la camiseta de apoyo a Ceuta |date=15 September 2026 |access-date=16 September 2026 |newspaper=[[Marca (newspaper)|Marca]] |language=es |archive-url=https://web.archive.org/web/20260915211237/https://www.marca.com/futbol/real-madrid/2026/09/15/vini-mbappe-konate-lucieron-camiseta-apoyo-ceuta.html |archive-date=15 September 2026 |url-status=live}}</ref><ref>{{cite news |url=https://as.com/futbol/primera/mbappe-a-as-sobre-las-camisetas-de-ceuta-tengo-toda-la-solidaridad-con-ceuta-pero-no-queria-priorizar-sufrimientos-f202609-n/ |title=Mbappé a AS sobre las camisetas de Ceuta: "Tengo toda la solidaridad con Ceuta, pero no quería priorizar sufrimientos" |date=16 September 2026 |access-date=17 September 2026 |newspaper=[[Diario AS]] |language=es |archive-url=https://web.archive.org/web/20260917041943/https://as.com/futbol/primera/mbappe-a-as-sobre-las-camisetas-de-ceuta-tengo-toda-la-solidaridad-con-ceuta-pero-no-queria-priorizar-sufrimientos-f202609-n/ |archive-date=17 September 2026 |url-status=live}}</ref><ref>{{Cite web |title=Kylian Mbappé explains obscuring Ceuta shirt amid backlash |url=https://www.espn.com/soccer/story/_/id/49959666/kylian-mbappe-real-madrid-ceuta-shirt-spain-vinicius-junior |access-date=2026-09-28 |website=ESPN |date=16 September 2026 |archive-url=https://web.archive.org/web/20260918085827/https://www.espn.com/soccer/story/_/id/49959666/kylian-mbappe-real-madrid-ceuta-shirt-spain-vinicius-junior |archive-date=18 September 2026 |url-status=live}}</ref>}} On 25 October, Mbappé scored his 100th goal for the club, netting a brace in a 2–1 [[El Clásico]] win over [[FC Barcelona|Barcelona]].<ref>{{cite web|last=Cartwright|first=Phil|title=Barcelona 1–2 Real Madrid: Kylian Mbappé scores twice to end La Liga leaders winning start|url=https://www.bbc.com/sport/football/live/cj3vqz410y42t|publisher=BBC Sport|date=25 October 2026|access-date=25 October 2026|archive-date=25 October 2026|archive-url=https://web.archive.org/web/20261025221718/https://www.bbc.co.uk/sport/football/live/cj3vqz410y42t|url-status=live}}</ref><ref>{{cite web|title=Mbappé reaches 100 goals with Real Madrid|url=https://www.realmadrid.com/en-US/news/football/first-team/latest-news/mbappe-alcanza-los-100-goles-con-el-real-madrid-25-10-2026|publisher=Real Madrid CF|date=25 October 2026|access-date=28 October 2026}}</ref>
 
 == International career ==
@@ -228,7 +228,7 @@ On 28 January 2019, Mbappé donated $34,000 (roughly £26,000) to a crowdfunding
 On 19 November 2021, Mbappé and the Chinese diver [[Zhang Jiaqi (diver)|Zhang Jiaqi]] became godfather and godmother, respectively, to two baby pandas at [[Beauval Zoo]], as part of a campaign to raise awareness about the species.<ref>{{cite web |url=https://www.bbc.co.uk/newsround/59336471 |title=Kylian Mbappe: French footballer becomes godfather to baby pandas |website=BBC Newsround |date=19 November 2021 |access-date=23 June 2022 |archive-date=23 June 2022 |archive-url=https://web.archive.org/web/20220623070405/https://www.bbc.co.uk/newsround/59336471 |url-status=live }}</ref>
 
 === Legal ===
-In 2026, Mbappé provided testimony to French investigators regarding a rape accusation against his friend and former [[Paris Saint-Germain FC|Paris Saint-Germain]] teammate [[Achraf Hakimi]].<ref>{{Cite news |last1=Lefilliâtre |first1=Jérôme |last2=Pham-Lê |first2=Jérémie |date=2026-09-23 |title=PSG's Achraf Hakimi will be tried for rape, high court confirms |url=https://www.lemonde.fr/en/france/article/2026/09/23/psg-s-achraf-hakimi-will-be-tried-for-rape-high-court-confirms_6757868_7.html |access-date=2026-10-11 |work=Le Monde |language=fr |issn=1950-6244}}</ref><ref>{{Cite web |title=Kylian Mbappé's testimony has crystallized the debates surrounding the legal fate of Achraf Hakimi, who has been sent to trial for rape. |url=https://www.lequipe.fr/Football/Article/Le-temoignage-de-kylian-mbappe-cristallise-les-debats-autour-du-sort-judiciaire-d-achraf-hakimi-renvoye-pour-viol/1677802?shem=aimgspe, |website=L'Equipe}}</ref>
+In 2026, Mbappé provided testimony to French investigators regarding a rape accusation on his friend and former [[Paris Saint-Germain FC|Paris Saint-Germain]] teammate [[Achraf Hakimi]].<ref>{{Cite news |last1=Lefilliâtre |first1=Jérôme |last2=Pham-Lê |first2=Jérémie |date=2026-09-23 |title=PSG's Achraf Hakimi will be tried for rape, high court confirms |url=https://www.lemonde.fr/en/france/article/2026/09/23/psg-s-achraf-hakimi-will-be-tried-for-rape-high-court-confirms_6757868_7.html |access-date=2026-10-11 |work=Le Monde |language=fr |issn=1950-6244}}</ref><ref>{{Cite web |title=Kylian Mbappé's testimony has crystallized the debates surrounding the legal fate of Achraf Hakimi, who has been sent to trial for rape. |url=https://www.lequipe.fr/Football/Article/Le-temoignage-de-kylian-mbappe-cristallise-les-debats-autour-du-sort-judiciaire-d-achraf-hakimi-renvoye-pour-viol/1677802?shem=aimgspe, |website=L'Equipe}}</ref>
 
 === "Chinese dictator" comment ===
 {{Also|Censorship in China}}
