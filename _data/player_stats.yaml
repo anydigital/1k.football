@@ -96,7 +96,7 @@
     - year: "'26/27"
       metrics:
         goals: 9
-      notes: current season
+      notes: "~30% completed"
 - name: Lionel
   surname: Messi
   country: 🇦🇷
@@ -194,7 +194,7 @@
       metrics:
         goals: 41
         🌐: 8
-      notes: current season
+      notes: "~85% completed"
     - year: "2027"
       metrics: {}
       notes: signed
@@ -250,7 +250,7 @@
     - year: "'26/27"
       metrics:
         goals: 16
-      notes: current season
+      notes: "~30% completed"
     - year: "'27/28"
       metrics: {}
       notes: signed
@@ -299,7 +299,7 @@
     - year: "'26/27"
       metrics:
         goals: 16
-      notes: current season
+      notes: "~30% completed"
     - year: "'27/28"
       metrics: {}
       notes: signed
@@ -340,7 +340,7 @@
     - year: "'26/27"
       metrics:
         goals: 16
-      notes: current season
+      notes: "~30% completed"
     - year: "'27/28"
       metrics: {}
       notes: signed
