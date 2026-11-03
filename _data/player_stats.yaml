@@ -5,6 +5,7 @@
     - year: "'02/03"
       metrics:
         goals: 5
+      notes: "~96% of season"
     - year: "'03/04"
       metrics:
         goals: 6
@@ -103,6 +104,7 @@
     - year: "'04/05"
       metrics:
         goals: 1
+      notes: "~77% of season"
     - year: "'05/06"
       metrics:
         goals: 8
@@ -206,6 +208,7 @@
     - year: "'15/16"
       metrics:
         goals: 1
+      notes: "~63% of season"
     - year: "'16/17"
       metrics:
         goals: 26
@@ -261,6 +264,7 @@
     - year: "2016"
       metrics:
         goals: 0
+      notes: "~81% of season"
     - year: "2017"
       metrics:
         goals: 4
@@ -321,12 +325,10 @@
   surname: Yamal
   country: 🇪🇸
   seasons:
-    - year: "'22/23"
-      metrics:
-        goals: 0
     - year: "'23/24"
       metrics:
         goals: 9
+      notes: "with ~19% of '22/23"
     - year: "'24/25"
       metrics:
         goals: 19
