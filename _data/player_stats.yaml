@@ -197,10 +197,10 @@
       notes: current season
     - year: "2027"
       metrics: {}
-      notes: contract signed
+      notes: signed
     - year: "2028"
       metrics: {}
-      notes: contract signed
+      notes: signed
 - name: Kylian
   surname: Mbappé
   country: 🇫🇷
@@ -253,10 +253,10 @@
       notes: current season
     - year: "'27/28"
       metrics: {}
-      notes: contract signed
+      notes: signed
     - year: "'28/29"
       metrics: {}
-      notes: contract signed
+      notes: signed
 - name: Erling
   surname: Haaland
   country: 🇳🇴
@@ -302,25 +302,25 @@
       notes: current season
     - year: "'27/28"
       metrics: {}
-      notes: contract signed
+      notes: signed
     - year: "'28/29"
       metrics: {}
-      notes: contract signed
+      notes: signed
     - year: "'29/30"
       metrics: {}
-      notes: contract signed
+      notes: signed
     - year: "'30/31"
       metrics: {}
-      notes: contract signed
+      notes: signed
     - year: "'31/32"
       metrics: {}
-      notes: contract signed
+      notes: signed
     - year: "'32/33"
       metrics: {}
-      notes: contract signed
+      notes: signed
     - year: "'33/34"
       metrics: {}
-      notes: contract signed
+      notes: signed
 - name: Lamine
   surname: Yamal
   country: 🇪🇸
@@ -343,13 +343,13 @@
       notes: current season
     - year: "'27/28"
       metrics: {}
-      notes: contract signed
+      notes: signed
     - year: "'28/29"
       metrics: {}
-      notes: contract signed
+      notes: signed
     - year: "'29/30"
       metrics: {}
-      notes: contract signed
+      notes: signed
     - year: "'30/31"
       metrics: {}
-      notes: contract signed
+      notes: signed
